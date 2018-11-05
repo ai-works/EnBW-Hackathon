@@ -40,3 +40,9 @@ https://www.arunponnusamy.com/yolo-object-detection-opencv-python.html
 https://github.com/arunponnusamy/object-detection-opencv
 weights:
 https://pjreddie.com/media/files/yolov3.weights
+
+XML-Dateien für Haar Cascade zum Downloaden
+http://alereimondo.no-ip.org/OpenCV/34/
+
+
+
